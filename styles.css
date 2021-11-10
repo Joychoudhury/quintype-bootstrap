@@ -480,13 +480,11 @@ a:hover {
     font-size: 1.4rem;
   }
   .story-image img {
-    height: 11rem;
-  }
-  .story-image{
-    margin: auto;
+    height: 100%;
   }
   .story1 .head-font {
     font-size: 1rem;
+    margin-bottom: 2%;
   }
   .story1 {
     height: 12rem;
